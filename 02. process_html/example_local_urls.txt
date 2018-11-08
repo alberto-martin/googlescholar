@@ -1,0 +1,4 @@
+file:///C:\01. get_raw_html\articles_html\1.0.html
+file:///C:\01. get_raw_html\articles_html\2.0.html
+file:///C:\01. get_raw_html\articles_html\3.0.html
+file:///C:\01. get_raw_html\articles_html\4.0.html
